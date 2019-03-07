@@ -1,6 +1,10 @@
 # modelingmath
 Challenge problem solution for Limelight Networks
 
+## Main Code
+The main class files to review are located at:
+*/src/main/kotlin*
+
 ## Prerequisits
 * Java 8
 * Gradle 4
