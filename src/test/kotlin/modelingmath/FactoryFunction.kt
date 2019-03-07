@@ -10,7 +10,7 @@ class ShouldSpecExampleTest : ShouldSpec() {
             "when `execute` is called" {
                 should("be able to print the value '23'") {
                     val expression = FactoryFunction()
-                    expression.execute() shouldBe 23
+                    expression.execute() shouldBe 23.0
                 }
             }
         }
