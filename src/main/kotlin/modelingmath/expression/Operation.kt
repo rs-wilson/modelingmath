@@ -7,5 +7,5 @@ import modelingmath.expression.interfaces.Node
  */
 abstract class Operation(private val leftNode: Node, private val rightNode: Node): Node {
     override val size: Int
-        get() = leftNode.size + rightNode.size
+        get() = leftNode.size + rightNode.size + 1 // Return the sum of child sizes plus one for this node
 }

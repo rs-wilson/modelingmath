@@ -3,7 +3,7 @@ package modelingmath
 import io.kotlintest.shouldBe
 import io.kotlintest.specs.ShouldSpec
 
-class ShouldSpecExampleTest : ShouldSpec() {
+class FactoryFunctionTest : ShouldSpec() {
     init {
 
         "A FactoryFunction object" {
