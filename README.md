@@ -1,5 +1,5 @@
 # modelingmath
-Challenge problem solution for Limelight Networks
+A simple arithmetic interpreter written for a coding challenge.
 
 ## Main Code for Review
 The main class files to review are located at:
